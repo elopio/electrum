@@ -1,8 +1,8 @@
 name: electrumfair
 version: master
-summary: Faircoin thin client
+summary: FairCoin thin client
 description: |
-  Lightweight Faircoin client
+  Lightweight FairCoin client
 
 grade: devel # must be 'stable' to release into candidate/stable channels
 confinement: strict
